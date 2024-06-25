@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "Project1\\src"
+    ],
+    "java.project.referencedLibraries": [
+        "c:\\Program Files\\Java\\jdk1.8.0_202\\jre\\lib\\plugin.jar"
+    ],
+    "maven.view": "flat"
+}
